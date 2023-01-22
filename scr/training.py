@@ -10,7 +10,7 @@ from tensorflow.keras.models import Sequential
 import pathlib
 import cv2
 
-from functionality.config import config
+from scr.config import config
 
 
 def scheduler(epoch):

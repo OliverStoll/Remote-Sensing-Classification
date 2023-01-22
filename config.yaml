@@ -2,8 +2,8 @@ batch_size: 16
 img_height: 256
 img_width: 256
 seed: 4769
-train_dir: "data/Challenge_dataset/train"
-val_dir: "data/Challenge_dataset/validation"
+train_dir: "data/train"
+val_dir: "data/validation"
 num_classes: 21
 
 epochs: 20
